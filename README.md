@@ -12,4 +12,5 @@
 
 #### certifications
 - 컴퓨터활용능력 1급
+- adsp
 
